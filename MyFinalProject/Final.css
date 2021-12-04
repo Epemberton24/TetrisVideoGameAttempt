@@ -1,0 +1,30 @@
+
+body{
+	background: #202028 !important;
+	color: #fff !important;
+	font-family: sans-serif !important;
+	font-size: 2em !important;
+	text-align: center !important;
+}
+
+
+canvas{
+	margin-top: 2% !important;
+	border: 0.5em solid white;
+	border-radius: 1em !important;
+	height: 70vh !important;
+	width: 25vw !important;
+	margin-right: 25%;
+}
+
+
+#score{
+	margin-right: 25%;
+	margin-top: 1%;
+	font-size: 150%
+}
+
+#text{
+    float: left;
+    padding: 0.5em;
+}
